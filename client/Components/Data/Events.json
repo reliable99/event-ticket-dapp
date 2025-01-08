@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Celestial Dragon",
+    "IPFS_URL": "https://gateway.pinata.cloud/ipfs/QmQVE8s5A6Gn2akZV3FGy8mRAa3n8Tbsb1H66FzjgGF8jz",
+    "category": "Fantasy",
+    "creator": "0xb309098bcB51E5C687a16FA41bD6055f47c9eBb0",
+    "description": "A mythical dragon that roams the cosmos, adorned with constellations and celestial light",
+    "image": "https://gateway.pinata.cloud/ipfs/QmTJTq2JcoaKDqjigJN4sbxL3Rw7ba1Zz76b2ygCydfpie"
+  },
+  {
+    "name": "Neon Samurai",
+    "IPFS_URL": "https://gateway.pinata.cloud/ipfs/QmNwBhrvrB5oNx14bgmDfKLizbQ2sYDc5PcPkLPgnPDGEg",
+    "category": "Cyberpunk",
+    "creator": "0xb309098bcB51E5C687a16FA41bD6055f47c9eBb0",
+    "description": "A futuristic warrior clad in neon armor, ready to battle in the streets of a cyberpunk city",
+    "image": "https://gateway.pinata.cloud/ipfs/QmYzQEEsTmhaBXqZGQ1prjbFfEyh5RMpHdfpobNk65ZQps"
+  },
+  {
+    "name": "Galactic Voyager",
+    "IPFS_URL": "https://gateway.pinata.cloud/ipfs/QmXLk79tKA6D7VPqytg3Xank7AHwa7nD8h25k8AJTLkEFd",
+    "category": "Sci-Fi",
+    "creator": "",
+    "description": "An explorer's ship that travels through uncharted galaxies, filled with mysterious treasures.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmXtH11xbVqp9So1XEPpjAN4nnNTvHwpdUJV16GBB68s1v"
+  },
+  {
+    "name": "Digital Dreams",
+    "IPFS_URL": "https://gateway.pinata.cloud/ipfs/QmP4MaTPHDmVNTZ5jJaVGc2rwXoqMWni3govXstPVQhd7c",
+    "category": "Abstract",
+    "creator": "",
+    "description": "A vibrant representation of abstract patterns that shift and morph in a digital landscape.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmbWRNWnpiDYzzhmipdac94giQAmcC2WHhikGJGZQpXRJA"
+  },
+  {
+    "name": "Eternal Blossom",
+    "IPFS_URL": "https://gateway.pinata.cloud/ipfs/QmdW6FKUMPv7eaEHm7g9pxnQWZ1tLtNvf4KJhsS6MTo9EQ",
+    "category": "Nature",
+    "creator": "",
+    "description": "A beautiful flower that never withers, symbolizing immortality and endless beauty.",
+    "image": "https://gateway.pinata.cloud/ipfs/Qmf7tWZ4xmUpgx5s26B3UhDdpGYJ8FvfUj3HtoRECAE4U2"
+  },
+  {
+    "name": "Pixel Pets - Robo Cat",
+    "IPFS_URL": "https://gateway.pinata.cloud/ipfs/QmeFKbtxFRDSJ63kTebrJVj78vM8hUpKv4vUZ493nDoJA8",
+    "category": "Collectible",
+    "creator": "",
+    "description": "A pixelated robotic cat designed to be your virtual companion in a digital world.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmWSXbY2BXe3GTHFaM6MoWSNG4hiLiNikiSBAgo3KvhoHG"
+  },
+  {
+    "name": "Ancient Guardian",
+    "IPFS_URL": "https://gateway.pinata.cloud/ipfs/QmbZz4ZGP26fstsNXqGiNc4nKTWhRmWaYwbG32xqDkWRbv",
+    "category": "Mythology",
+    "creator": "",
+    "description": "A stone statue of an ancient warrior who protects sacred temples with its mystical powers",
+    "image": "https://gateway.pinata.cloud/ipfs/Qmdwf5Cnx9A2HisTk8theeC6HxPz9j59uoozgAZxt2pvEu"
+  },
+  {
+    "name": "Street Graffiti",
+    "IPFS_URL": "https://gateway.pinata.cloud/ipfs/QmXF8esvLprRUY8Lij2PstzHvYKgu347xm5bshXjnF3oMy",
+    "category": "Urban Art",
+    "creator": "",
+    "description": "A lively mural showcasing the vibrant culture of city life, painted in bold and dynamic colors.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmY38AWUp7fLrDxBhbrVg2wjDmwz6VpdvJppeLJhNihbEV"
+  }
+]
