@@ -1,3 +1,4 @@
+
 import React from "react";
 import {
   TiSocialTwitter,
@@ -122,3 +123,4 @@ const Footer = () => {
 };
 
 export default Footer;
+

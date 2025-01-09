@@ -1,3 +1,4 @@
+
 import React from "react";
 
 const Faq = () => {
@@ -104,3 +105,5 @@ const Faq = () => {
 };
 
 export default Faq;
+
+
