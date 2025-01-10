@@ -26,7 +26,7 @@ import Booking from "../Components/Booking";
 import MobileNav from "../Components/MobileNav";
 
 const index = () => {
-  const { loader, GET_USER_OWN_NFTS, address } = useStateContext();
+  const { loader, GET_USER_OWN_NFTS, address } = useStateContext() || {};
   const [admin, setAdmin] = useState(false);
   const [claimNFT, setClaimNFT] = useState();
 

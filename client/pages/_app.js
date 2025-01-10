@@ -1,9 +1,28 @@
 import "../styles/globals.css";
+import "@rainbow-me/rainbowkit/styles.css";
+import toast, { Toaster } from "react-hot-toast";
+
+import { StateContextProvider } from "../Context/index";
+import { config } from "../Context/wagmiConfigs";
+
+import { RainbowKitProvider } from "@rainbow-me/rainbowkit";
+import { WagmiProvider } from "wagmi";
+import { QueryClientProvider, QueryClient } from "@tanstack/react-query";
 
 export default function App({ Component, pageProps }) {
+  const queryClient = new QueryClient();
   return (
     <>
-      <Component {...pageProps} />
+      <WagmiProvider config={config}>
+        <QueryClientProvider client={queryClient}>
+          <RainbowKitProvider>
+            <StateContextProvider>
+              <Component {...pageProps} />
+              <Toaster />
+            </StateContextProvider>
+          </RainbowKitProvider>
+        </QueryClientProvider>
+      </WagmiProvider>
 
       <script src="/assets/js/libs/jquery.min.js"></script>
       <script src="/assets/js/libs/swiper-bundle.min.js"></script>
